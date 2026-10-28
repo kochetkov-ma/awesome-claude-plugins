@@ -1,6 +1,6 @@
 # Upstream snapshot
 
-This is the existing Brewdoc documentation toolkit, version 6.12.5, copied from [kochetkov-ma/claude-brewcode at 61dfaa8bdbcb59aa8a7b45570dd71885ccae52f8](https://github.com/kochetkov-ma/claude-brewcode/tree/61dfaa8bdbcb59aa8a7b45570dd71885ccae52f8/brewdoc). Original MIT licenses and author attribution are preserved. The README's links to optional companion products now point to upstream; source files are otherwise unchanged.
+This is the existing Brewdoc documentation toolkit, version 6.12.5, copied from [kochetkov-ma/claude-brewcode at 61dfaa8bdbcb59aa8a7b45570dd71885ccae52f8](https://github.com/kochetkov-ma/claude-brewcode/tree/61dfaa8bdbcb59aa8a7b45570dd71885ccae52f8/brewdoc). The 66 Claude plugin files retain original MIT licenses and author attribution; the separate upstream `.codex` adapter is excluded. The README's links to optional companion products now point to upstream; runtime source files are unchanged.
 
 The five skills cover documentation sync, project memory-sync generation, installation guides, Markdown-to-PDF conversion and BrewPage publishing. This is a broader documentation toolkit, not a BrewPage-only plugin. Its runtime scripts and references are inside this folder; optional companion commands described in the upstream guide are separate plugins.
 
